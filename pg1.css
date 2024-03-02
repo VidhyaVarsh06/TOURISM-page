@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap'); /*"Concert One", sans-serif*/
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Tilt+Warp&display=swap');/*"Tilt Warp", sans-serif*/
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=DynaPuff:wght@400..700&family=Tilt+Warp&display=swap');/*"DynaPuff", system-ui*/
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=DynaPuff:wght@400..700&family=Tilt+Warp&family=Water+Brush&display=swap'); /*"Water Brush", cursive*/
+
+
+
+.bg-container {
+    background-image: url("./asset/sea.jpg");
+    height: 500px;
+    background-size: contain; 
+    background-repeat: no-repeat;
+
+}   
+
+  
+
+.heading {
+    text-transform: uppercase;
+    font-family:"Tilt Warp", sans-serif;
+    font-size: 35px;
+    background-color: aqua;
+    padding-left: 260px;
+}
+
+.para {
+    color: #000;
+    font-family:"DynaPuff", system-ui;
+    font-size: 12px;
+    font-style: italic;
+    padding-left: 280px;
+
+}
+
+.btn-button {
+    background-color:goldenrod;
+    font-family:'Concert One';
+    font-size: 12px;
+    opacity: 0.9;
+    
+}
+
+.card {
+    width: 100vh;
+    height: 130px;
+    background-color:#fcf2c7;
+    margin
+
+}
+
+    
+
+ 
